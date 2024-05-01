@@ -2,7 +2,7 @@ import os
 restaurantes = [{"nome":"Papizza", "categoria":"Italiano", "ativo":False}, 
                 {"nome":"Coma a vontade", "categoria":"Self service", "ativo":True},
                 {"nome":"Churrascada de cria", "categoria": "Self service", "ativo":True},
-                {"nome": "Japaki", "catagoria": "Lanchonete", "ativo": False}]
+                {"nome": "Japaki", "categoria": "Lanchonete", "ativo": False}]
 
 def exibir_nome_do_programa():
     print("𝒮𝒶𝒷ℴ𝓇 ℰ𝓍𝓅𝓇ℯ𝓈𝓈\n")
